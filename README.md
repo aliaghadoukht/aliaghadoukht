@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aliaghadoukht
-- 👀 I’m interested in Bioinformatica, Medical Systems Biology and Machine Learning
+- 👀 I’m interested in Biomedical Sciences, Bioinformatics and Machine Learning
 - 🌱 I’m currently learning Advanced Bioinformatics
 - 💞️ I’m looking to collaborate on Rna-Seq analysis projects
 - 📫 How to reach me ali.aghadoukht@gmail.com
