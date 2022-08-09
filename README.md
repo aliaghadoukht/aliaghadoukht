@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliaghadoukht
-- 👀 I’m interested in Biomedical Sciences, Bioinformatics and Machine Learning
-- 🌱 I’m currently learning Advanced Bioinformatics
+- 👀 I’m interested in Bioinformatics and Machine Learning
+- 🌱 I’m currently learning single cell-seq data analysis
 - 💞️ I’m looking to collaborate on Rna-Seq analysis projects
 - 📫 How to reach me ali.aghadoukht@gmail.com
 
